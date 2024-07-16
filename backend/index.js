@@ -15,3 +15,5 @@ const a= 'other changes';
 console.log('new changes');
 
 const a= 'vs code';
+const b=5;
+
