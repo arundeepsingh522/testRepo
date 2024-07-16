@@ -11,7 +11,7 @@ console.log('hello changes from other user')
 console.log('hello');
 
 const a= 'other changes';
-
+const b= 5;
 console.log('new changes');
 
 const a= 'vs code';
