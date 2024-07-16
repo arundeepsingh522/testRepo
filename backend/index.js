@@ -7,4 +7,4 @@ app.listen(8080,()=>{
     console.log("server is running on port 8080");
 });
 
-new
+console.log('hello');
