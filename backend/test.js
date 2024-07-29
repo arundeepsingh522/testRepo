@@ -2,6 +2,10 @@ const show = ()=>{
 console.log('show d');
     console.log('other')
 }
+
+
+
+ss
 const show3= ()=>{
     console.log('code after commit in main by another contributer');
 }
