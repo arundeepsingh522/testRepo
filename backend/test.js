@@ -3,19 +3,21 @@ console.log('show d');
     console.log('other')
 }
 
-
+sbahsbdhsdja
+absjsab
+asjsab
 
 ss
 const show3= ()=>{
     console.log('code after commit in main by another contributer');
 }
-const show5 = ()=>{
-
+const shsow5 = ()=>{
+ssj
 sss}
 
 const show2=()=>{
-
-  console.log('code from git');
+shjb
+  console.sjshnlog('code from git');
 }
 
 
