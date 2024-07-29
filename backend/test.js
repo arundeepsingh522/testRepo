@@ -10,8 +10,7 @@ asjsab
 ss
 
 const shsow5 = ()=>{
-ssj
-sss}
+
 
 const show2=()=>{
 shjb
