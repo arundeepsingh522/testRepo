@@ -9,3 +9,11 @@ const show2=()=>{
 
   console.log('code from git');
 }
+
+
+
+
+const show4= ()
+    {
+    //after commiting 3
+}
