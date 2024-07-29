@@ -1,5 +1,6 @@
 const show = ()=>{
-console.log('show ');
+console.log('show d');
+    console.log('other')
 }
 const show3= ()=>{
     console.log('code after commit in main by another contributer');
