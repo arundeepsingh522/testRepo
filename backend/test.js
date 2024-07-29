@@ -8,9 +8,7 @@ absjsab
 asjsab
 
 ss
-const show3= ()=>{
-    console.log('code after commit in main by another contributer');
-}
+
 const shsow5 = ()=>{
 ssj
 sss}
